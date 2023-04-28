@@ -1,0 +1,39 @@
+header {
+    position: fixed;
+    right: 0px;
+}
+
+body {
+    background-color: grey;
+    font-family: "Comic Sans MS";
+    color: white;
+}
+
+h1 {
+    color: hotpink;
+    font-weight: bolder;
+    text-align: right;
+    font-size: 40px;
+}
+
+h2 {
+    color: lightblue;
+    text-align: center;
+}
+
+section {
+    background-color: black;
+    width: 600px;
+border: 20px white;
+margin: 50px;
+padding: 20px;
+right: 50%;
+}
+
+#diagram {
+    text-align: center;
+}
+
+.floater {
+    position: relative;
+}
